@@ -4,7 +4,7 @@ In 2018 kaggle have organized a Prediction Competition for creating an algorithm
 
 Problem Statement: Find the nuclei in divergent images to advance medical discovery kaggle competition
 
-I have tried here to build a U-NET architecture for semantic segmentation where i have chosen trainable parameter independent of the paper with the architecture remain same.
+I have tried here to build a U-NET architecture for semantic segmentation where i have chosen trainable parameter independent or different from the paper with the architecture remain same.
 
 U-Net: Convolutional Networks for Biomedical Image Segmentation looks like:
 
