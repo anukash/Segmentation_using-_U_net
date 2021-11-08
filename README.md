@@ -1,10 +1,16 @@
 # Segmentation_using_U_net
 
-Find the nuclei in divergent images to advance medical discovery kaggle competition
-
-I have tried to build a U-NET architecture for semantic segmentation.
-
 In 2018 kaggle have organized a Prediction Competition for creating an algorithm to automate nucleus detection.
+
+Problem Statement: Find the nuclei in divergent images to advance medical discovery kaggle competition
+
+I have tried here to build a U-NET architecture for semantic segmentation where i have choosen trainable parameter independent of the paper with the architecture remain same.
+
+U-Net: Convolutional Networks for Biomedical Image Segmentation looks like:
+
+![architecture](https://user-images.githubusercontent.com/51228517/140746084-73080b61-854a-4ce8-bff4-124a064566a8.PNG)
+
+paper link: https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
 Dataset can be found using below link
 
